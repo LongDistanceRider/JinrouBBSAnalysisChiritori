@@ -4,7 +4,7 @@
 
 テーブル情報
 -----------------------
-villageTable      : 村情報の入るテーブル．一つの村につき一つある
+villageTable      : 村情報の入るテーブル．一つの村につき一つある<br>
   villageNumber : 村ごとに付けられる番号
   villageName   : 村ごとに付けられる名前
   updateTime    : 村の一日が切り替わる時間
